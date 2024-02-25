@@ -1,0 +1,14 @@
+{
+    "images/kozia.jpg": [
+        "images/kozia_watermark.jpg"
+    ],
+    "images/centrum_watermarked.jpg": [
+        "images/centrum.jpg"
+    ],
+    "images/kozia_watermark.jpg": [
+        "images/kozia.jpg"
+    ],
+    "images/centrum.jpg": [
+        "images/centrum_watermarked.jpg"
+    ]
+}
